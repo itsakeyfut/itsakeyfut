@@ -1,4 +1,5 @@
-<h2 align="center">About me:</h2>
+<h2 align="center">About me</h2>
+<p align="justify">こんにちは、OMZです。好きな分野はシステムプログラミング、ゲーム開発、Web開発です。特にC/C++, Rustを極めたいと考えています。</p>
 <p align="justify">こんにちは、OMZです。好きな分野はシステムプログラミング、ゲーム開発、Web開発です。特にC/C++, Rustを極めたいと考えています。</p>
 <p></p>
 <br>
@@ -13,7 +14,7 @@
 </tr>
 </table>
 <br>
-<h2 align="center">Featured repositories:</h2>
+<h2 align="center">Featured repositories</h2>
 <div align="center">
 <a href="https://github.com/Ometeor-Zheero-OMZ/ff-battle-sys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=ff-battle-sys&theme=dark"></a>
 <a href="https://github.com/Ometeor-Zheero-OMZ/pokemon-battle-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=pokemon-battle-system&theme=dark"></a>
