@@ -15,7 +15,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" /><br><b>Python</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" /><br><b>C#</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=unrealengine" alt="UE" width="65" height="65" /><br><b>UE5</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="65" height="65" /><br><b>UE5</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="65" height="65" /><br><b>Unity6</b></td>
    </tr>
 </table>
 <br>
