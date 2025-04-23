@@ -7,15 +7,24 @@
 <br>
 <h2 align="center">Tech Stacks</h2>
 <table align="center">
-<tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65" /><br><b>C</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65" /><br><b>C++</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width="65" height="65" /><br><b>Rust</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65" /><br><b>Python</b></td>
-   <td align="center"><img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" alt="UE" width="65" height="65" /><br><b>UE5</b></td>
-</tr>
+   <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" /><br><b>C</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" /><br><b>C++</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" /><br><b>Rust</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" /><br><b>TypeScript</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" /><br><b>Python</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" /><br><b>C#</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=unrealengine" alt="UE" width="65" height="65" /><br><b>UE5</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="65" height="65" /><br><b>UE5</b></td>
+   </tr>
 </table>
 <br>
+
+<p align="center">
+   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ometeor-Zheero-OMZ&layout=compact&theme=tokyonight" />
+   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ometeor-Zheero-OMZ&layout=compact&theme=tokyonight" />
+</p>
+
 <h2 align="center">Featured repositories</h2>
 <div align="center">
 <a href="https://github.com/Ometeor-Zheero-OMZ/ff-battle-sys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=ff-battle-sys&theme=dark"></a>
