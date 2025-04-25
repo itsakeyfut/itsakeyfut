@@ -27,7 +27,9 @@
 
 <h2 align="center">Featured repositories</h2>
 <div align="center">
-<a href="https://github.com/Ometeor-Zheero-OMZ/ff-battle-sys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=ff-battle-sys&theme=dark"></a>
+<a href="https://github.com/Ometeor-Zheero-OMZ/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=video-editor&theme=dark"></a>
+<a href="https://github.com/Ometeor-Zheero-OMZ/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=ota&theme=dark"></a>
+<a href="https://github.com/Ometeor-Zheero-OMZ/GBAEmulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=GBAEmulator&theme=dark"></a>
 <a href="https://github.com/Ometeor-Zheero-OMZ/pokemon-battle-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=pokemon-battle-system&theme=dark"></a>
 <a href="https://github.com/Ometeor-Zheero-OMZ/camera_calibrator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=camera_calibrator&theme=dark"></a>
 <a href="https://github.com/Ometeor-Zheero-OMZ/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=rustrix&theme=dark"></a>
