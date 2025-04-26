@@ -19,14 +19,14 @@
 <br>
 
 <p align="center">
-   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ometeor-Zheero-OMZ&layout=compact&theme=tokyonight" />
-   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ometeor-Zheero-OMZ&layout=compact&theme=tokyonight" />
+   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakeyfut&layout=compact&theme=radical" />
+   <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api?username=itsakeyfut&layout=compact&theme=radical" />
 </p>
 
 <h2 align="center">Active Repositories</h2>
 <div align="center">
-<a href="https://github.com/Ometeor-Zheero-OMZ/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=video-editor&theme=dark"></a>
-<a href="https://github.com/Ometeor-Zheero-OMZ/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=ota&theme=dark"></a>
-<a href="https://github.com/Ometeor-Zheero-OMZ/GBAEmulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=GBAEmulator&theme=dark"></a>
-<a href="https://github.com/Ometeor-Zheero-OMZ/gamernage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ometeor-Zheero-OMZ&repo=gamernage&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/GBAEmulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=GBAEmulator&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/gamernage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=gamernage&theme=dark"></a>
 </div>
