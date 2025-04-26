@@ -1,6 +1,4 @@
 <h2 align="center">About me</h2>
-<p align="center">アメリカかドイツへの就職を目指すため README は全て英語かドイツ語です。</p>
-<br>
 <p align="justify">I'm a highly versatile programmer with a keen interest in mastering C/C++ and Rust. At the moment, I'm working on several private projects, one of which involves developing an open-source API wrapper for Rust. In the near future, I look forward to connecting with you all and building a more fulfilling hacker life. I also hope to attract plenty of contributors and sponsors along the way!</p>
 <br>
 <p align="justify">Ich bin ein äußerst vielseitiger Programmierer und habe ein besonderes Interesse daran, C/C++ und Rust zu meistern. Derzeit arbeite ich an mehreren privaten Projekten. Eines davon ist die Entwicklung eines Open-Source-API-Wrappers für Rust. In naher Zukunft freue ich mich darauf, mit euch in Kontakt zu treten und ein noch erfüllteres Hackerleben zu führen. Außerdem hoffe ich, viele Mitwirkende und Sponsoren gewinnen zu können!</p>
