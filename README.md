@@ -12,8 +12,14 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" /><br><b>TypeScript</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" /><br><b>Python</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" /><br><b>C#</b></td>
+   </tr>
+   <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=actix" alt="Actix Web" width="65" height="65" /><br><b>Actix Web</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="65" height="65" /><br><b>Tauri</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=unrealengine" alt="UE" width="65" height="65" /><br><b>UE5</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="65" height="65" /><br><b>Unity6</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" /><br><b>AWS</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" /><br><b>Nginx</b></td>
    </tr>
 </table>
 <br>
