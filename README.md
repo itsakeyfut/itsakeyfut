@@ -39,7 +39,7 @@ Let's create something amazing together! 🚀
 <h2 align="center">Active Repositories</h2>
 <div align="center">
 <a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/OpenImago"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=OpenImago&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/GBAEmulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=GBAEmulator&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/gamernage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=gamernage&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
 </div>
