@@ -42,4 +42,6 @@ Let's create something amazing together! 🚀
 <a href="https://github.com/itsakeyfut/OpenImago"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=OpenImago&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/chess-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=chess-server&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/lamia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=lamia&theme=dark"></a>
 </div>
