@@ -36,20 +36,19 @@ Let's create something amazing together! 🚀
    <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api?username=itsakeyfut&layout=compact&theme=radical" />
 </p>
 
-<h2 align="center">Active Repositories</h2>
+<h2 align="center">Active Public Repositories</h2>
 <div align="center">
-<a href="https://github.com/itsakeyfut/chess-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=chess-client&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/chess-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=chess-server&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/actix-web-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=actix-web-boilerplate&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
 </div>
 
 <h2 align="center">Portfolio</h2>
 <div align="center">
 <a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/movie-list-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=movie-list-backend&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/actix-web-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=actix-web-boilerplate&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=rustrix&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/pokemon-battle-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=pokemon-battle-system&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/lamia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=lamia&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
 </div>
