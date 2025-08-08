@@ -38,17 +38,16 @@ Let's create something amazing together! 🚀
 
 <h2 align="center">Active Public Repositories</h2>
 <div align="center">
-<a href="https://github.com/itsakeyfut/actix-web-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=actix-web-boilerplate&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
 </div>
 
 <h2 align="center">Portfolio</h2>
 <div align="center">
-<a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/actix-web-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=actix-web-boilerplate&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=rustrix&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=rustrix&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
 </div>
