@@ -14,11 +14,11 @@ Let's create something amazing together! 🚀
 <table align="center">
    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" /><br><b>C</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="65" height="65" /><br><b>C#</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" /><br><b>C++</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" /><br><b>Rust</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" /><br><b>TypeScript</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" /><br><b>Python</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" /><br><b>C#</b></td>
    </tr>
    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=actix" alt="Actix Web" width="65" height="65" /><br><b>Actix Web</b></td>
