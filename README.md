@@ -41,8 +41,7 @@ Let's create something amazing together! 🚀
 <a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/sonic-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=sonic-flow&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/zig-which"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-which&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/zig-curl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-curl&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/zarc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zarc&theme=dark"></a>
 </div>
 
 <h2 align="center">Portfolio</h2>
@@ -53,4 +52,6 @@ Let's create something amazing together! 🚀
 <a href="https://github.com/itsakeyfut/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=rustrix&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/zig-which"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-which&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/zig-curl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-curl&theme=dark"></a>
 </div>
