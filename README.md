@@ -39,7 +39,7 @@ Let's create something amazing together! 🚀
 <h2 align="center">Active Public Repositories</h2>
 <div align="center">
 <a href="https://github.com/yomi-os/yomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yomi-os&repo=yomi&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/echo-core"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=echo-core&theme=dark"></a>
+<a href="https://github.com/itsakeyfut/psrx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=psrx&theme=dark"></a>
 <a href="https://github.com/itsakeyfut/zarc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zarc&theme=dark"></a>
 </div>
 
