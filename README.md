@@ -1,14 +1,7 @@
 <h2 align="center">About me</h2>
 <p align="justify">
-Hi there! 👋  
-I'm a passionate and versatile programmer with over 10 years of experience in personal software development. I specialize in Rust and C/C++, and I'm deeply committed to creating world-class software that enriches lives and empowers people around the globe.
-
-I'm currently focused on building open-source tools, backend microservices, and video processing applications using Rust, Actix Web, Tauri and FFmpeg. I believe technology should make our lives better — more efficient, more creative, and more enjoyable.
-
-Game development is also close to my heart. I love crafting experiences that bring joy to people, and I'm always excited about using code as a medium for fun and meaningful interaction.
-
-Whether it's through open-source collaboration or professional work, I'm always eager to learn, build, and share.  
-Let's create something amazing together! 🚀
+I'm an indie developer for over 10 years. My interest is the field of game and desktop development although having a knowledge of web and AI.
+Low level programming always stirs my curiosity.
 </p>
 <h2 align="center">Tech Stacks</h2>
 <table align="center">
@@ -35,22 +28,3 @@ Let's create something amazing together! 🚀
    <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakeyfut&layout=compact&theme=radical" />
    <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api?username=itsakeyfut&layout=compact&theme=radical" />
 </p>
-
-<h2 align="center">Active Public Repositories</h2>
-<div align="center">
-<a href="https://github.com/yomi-os/yomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yomi-os&repo=yomi&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/psrx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=psrx&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/zarc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zarc&theme=dark"></a>
-</div>
-
-<h2 align="center">Portfolio</h2>
-<div align="center">
-<a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/ota"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ota&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/video-editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=video-editor&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/rustrix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=rustrix&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/reversi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=reversi&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/zig-which"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-which&theme=dark"></a>
-<a href="https://github.com/itsakeyfut/zig-curl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zig-curl&theme=dark"></a>
-</div>
