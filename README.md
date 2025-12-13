@@ -34,8 +34,8 @@
 
   <h3 align="center">OS</h3>
   <div align="center">
-    <a href="https://github.com/yomi-os/yomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=yomi&theme=dark"></a>
-    <a href="https://github.com/itsakeyfut/ascii-term"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=ascii-term&theme=dark"></a>
+    <a href="https://github.com/yomi-os/yomi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yomi-os&repo=yomi&theme=dark"></a>
+    <a href="https://github.com/itsakeyfut/zero-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=zero-os&theme=dark"></a>
   </div>
 
   <h3 align="center">Tools</h3>
