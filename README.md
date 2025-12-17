@@ -12,6 +12,12 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="65" height="65" /><br><b>Unreal</b></td>
     </tr>
   </table>
+
+  <h2 align="center">Status</h2>
+  <p align="center">
+     <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakeyfut&layout=compact&theme=radical" />
+     <img alt="github-stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=itsakeyfut&layout=compact&theme=radical" />
+  </p>
   
   <h2 align="center">Repositories</h2>
   <h3 align="center">Game Development</h3>
