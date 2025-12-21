@@ -25,6 +25,11 @@
     <a href="https://github.com/itsakeyfut/tropical-fox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=tropical-fox&theme=dark"></a>
   </div>
 
+  <h3 align="center">Game Engine Core</h3>
+  <div align="center">
+    <a href="https://github.com/itsakeyfut/renderer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=renderer&theme=dark"></a>
+  </div>
+
   <h3 align="center">Game Emulator</h3>
   <div align="center">
     <a href="https://github.com/itsakeyfut/nes-rs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsakeyfut&repo=nes-rs&theme=dark"></a>
