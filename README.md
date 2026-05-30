@@ -15,7 +15,12 @@
 
   <h2 align="center">Status</h2>
   <p align="center">
-     <img alt="most-used" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsakeyfut&layout=compact&theme=radical" />
-     <img alt="github-stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=itsakeyfut&layout=compact&theme=radical" />
+
   </p>
 </main>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsakeyfut&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsakeyfut&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsakeyfut&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsakeyfut&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsakeyfut&theme=transparent&utcOffset=9)
