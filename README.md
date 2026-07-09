@@ -6,7 +6,7 @@
 
 <h2 align="center">Highly Used Tech Stacks</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,bevy,unreal" alt="tech stacks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,unreal,unity" alt="tech stacks" />
 </p>
 
 <h2 align="center">📈 Commit Activity</h2>
