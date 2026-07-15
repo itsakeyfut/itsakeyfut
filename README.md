@@ -1,12 +1,12 @@
 </div>
 
 <h2 align="center">About me</h2>
-<p align="center">Low level programming always stirs my curiosity.</p>
-<p align="center">Also exploring multimedia — building a video editing app and an FFmpeg-wrapper crate in Rust.</p>
+<p align="center">Game developer at heart — I build 2D games in Unity with C#.</p>
+<p align="center">Low-level programming stirs my curiosity too — game engines, software renderers, and multimedia tooling, mostly in Rust and Zig. Currently building <code>avio</code>, a safe Rust wrapper around FFmpeg, and a video editor on top of it.</p>
 
 <h2 align="center">Highly Used Tech Stacks</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,unreal,unity" alt="tech stacks" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,rust,zig,cpp,c" alt="tech stacks" />
 </p>
 
 <h2 align="center">📈 Commit Activity</h2>
